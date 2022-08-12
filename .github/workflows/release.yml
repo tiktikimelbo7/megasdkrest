@@ -74,6 +74,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: Version 0.1.1
+          name: Version 0.1.2
           files: |
             outputs/*
