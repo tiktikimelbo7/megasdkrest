@@ -3,7 +3,7 @@ name: Release MegaSDK-REST
 on:
   push:
     tags:
-      - "v*.*.*"
+      - "v0.1.1"
   workflow_dispatch:
 jobs:
   build:
