@@ -30,4 +30,4 @@ jobs:
           file: ./Dockerfile_base
           platforms: linux/amd64,linux/386,linux/arm64/v8,linux/arm/v7
           push: true
-          tags: l3v11x/megarestbase:latest
+          tags: mirrorultroid6/megarestbase:latest
